@@ -5,7 +5,7 @@ Status Python Django React mBERT License
 
 📸 Screenshots
 Home Page
-Home Page
+https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/251dd178b7b1d505adea5de1e5a17371fc107a29/home.jpeg
 
 Analyzer Page
 Analyzer
