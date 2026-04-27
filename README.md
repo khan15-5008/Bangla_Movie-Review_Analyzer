@@ -7,27 +7,19 @@ Status Python Django React mBERT License
 Home Page
 ![image alt](https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/251dd178b7b1d505adea5de1e5a17371fc107a29/home.jpeg
 )
-
-![image alt](https://github.com/khan15-5008/An-Interactive-City-Visualization-in-OpenGL-with-Animation-Lighting-User-Controls/blob/6f80e5b09e0b76dce48933ed5ee8fa4967b2081b/IMG_20251212_172837.jpg
-)
-![image alt](https://github.com/khan15-5008/An-Interactive-City-Visualization-in-OpenGL-with-Animation-Lighting-User-Controls/blob/8c2009443d91ab4553f0447a86829ff8049e5ad1/IMG_20251212_172903.jpg
-)
 Analyzer Page
 ![image alt](https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/a7fa2b045c562e100531b0fcb78ec886ef8c5509/analyzer.jpeg
 )
-
-Results with Charts
-Results 1 Results 2
-![image alt](https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/424ed48b2e6faae6843b7ac397fc42eeb2565a61/output1.jpeg
-)
-
 Analysis History
 History
 ![image alt](https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/4a53a7b3559f253b158135db7be441b07af21dbb/history.jpeg
 )
-
-About Page
-About
+Results with Charts
+Results 1 Results 2
+![image alt](https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/424ed48b2e6faae6843b7ac397fc42eeb2565a61/output1.jpeg
+)
+![image alt](https://github.com/khan15-5008/Bangla_Movie-Review_Analyzer/blob/540c8a72987499d44fb93caffc71be31cc4fc63a/output2.jpeg
+)
 
 🎥 Live Demo
 Try it now: Live Demo Link (Coming Soon)
